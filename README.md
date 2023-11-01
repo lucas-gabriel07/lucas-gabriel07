@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 
 
-<!--
-**lucas-gabriel07/lucas-gabriel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Gabriel 
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma Alura
+- Estou me desenvolvendo nas linguagens JavaScript, HTML e CSS
+- Utilizo este espaço para minha organizaçao e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### voce pode entrar em contato comigo
+
+  lucas.lisboa.santos@escola.pr.gov.br
+
+  ![](https://media.tenor.com/i4KsDhmhaZsAAAAC/real-madrid-bellingham.gif)
+  
